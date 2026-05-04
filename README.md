@@ -6,9 +6,7 @@
 ⚡ Clean code & performance focused |
 🌱 Learning TypeScript & DSA
 </p>
-
 <br>
-
 <h3>About Me</h3>
 
 <p>
@@ -16,9 +14,7 @@
 ⚡ I care about clean code, optimization, and real-world impact <br>
 🌱 Currently improving TypeScript and Data Structures & Algorithms
 </p>
-
 <br>
-
 <h3>Tech Stack</h3>
 
 <p>
@@ -26,36 +22,27 @@ Languages: Java • JavaScript • C++ <br>
 Frontend: React.js • Next.js • Tailwind CSS <br>
 Backend: Node.js • Express.js
 </p>
-
 <br>
-
 <h3>Currently Learning</h3>
 
 <p>
 TypeScript (deep dive) <br>
 Data Structures & Algorithms
 </p>
-
 <br>
-
 <h3>Goals</h3>
 
 <p>
 Build production-grade full stack projects <br>
 Become a strong problem solver (DSA + real-world systems)
 </p>
-
 <br>
-
 <h3>Connect With Me</h3>
-
 <p>
 💼 <a href="https://www.linkedin.com/in/parth-kotwe">LinkedIn</a> <br>
 📧 parthkotwe848@gmail.com
 </p>
-
 <br>
-
 <h3>Socials</h3>
 
 <p>
@@ -66,11 +53,8 @@ Become a strong problem solver (DSA + real-world systems)
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
 </p>
-
 <br>
-
 <h3>Tech Badges</h3>
-
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -87,11 +71,8 @@ Become a strong problem solver (DSA + real-world systems)
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 <br>
-
 <h3>GitHub Stats</h3>
-
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=Parthkotwe&theme=nightowl" />
 <br>
@@ -99,15 +80,12 @@ Become a strong problem solver (DSA + real-world systems)
 <br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Parthkotwe&layout=compact&theme=nightowl" />
 </p>
-
 <br>
-
 <h3>GitHub Trophies</h3>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Parthkotwe&theme=radical&margin-w=10"/>
 </p>
-
 <br>
 
 <p align="center">
